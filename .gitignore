@@ -1,0 +1,11 @@
+*.pyc
+.DS_Store
+.coverage
+env
+venv
+tmp
+env.sh
+.#*
+*~
+*.yml
+*.log

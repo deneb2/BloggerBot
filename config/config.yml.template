@@ -1,0 +1,11 @@
+# wordpress
+WP_DOMAIN: <your wp domain>
+WP_PWD: <your wp password>
+WP_USER: <your wp username>
+
+# telegram
+TELEGRAM_TOKEN: <your token>
+
+# requests
+USER_AGENT: 'My user agent 1.0'
+REFERER: ''
