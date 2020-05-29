@@ -1,4 +1,5 @@
 # BloggerBot
+[![Build Status](https://travis-ci.com/deneb2/BloggerBot.svg?branch=master)](https://travis-ci.com/deneb2/BloggerBot)
 
 This software is a Telegram bot. It will parse all the messages and it will post all the links to your blog wordpress.
 This Bot need to be an _administrator_ of the group to read all the messages.
