@@ -23,7 +23,7 @@ class MockResponse():
 class TestFetcher(unittest.TestCase):
     def setUp(self):
         self.input_data = []
-        with open('test/data/metadata.json') as data:
+        with open('tests/data/metadata.json') as data:
             for line in data:
                 if (line.startswith('#') 
                     or not len(line.strip())):
