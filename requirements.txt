@@ -1,7 +1,7 @@
 requests==2.21.0
 mock==3.0.5
 beautifulsoup4==4.9.1
-PyYAML==5.3.1
+PyYAML==5.4
 python-wordpress-xmlrpc==2.3
 telepot==12.7
 green==3.1.4
